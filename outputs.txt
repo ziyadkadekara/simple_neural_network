@@ -1,0 +1,16 @@
+Hi, Hope you are coding fine ;)
+
+Randon synaptic weights: 
+[[-0.16595599]
+ [ 0.44064899]
+ [-0.99977125]]
+Synaptic weights after training: 
+[[10.38040701]
+ [-0.20641179]
+ [-4.98452047]]
+Input 1 : 1
+Input 2 : 1
+Input 3 : 1
+New situation: inout data =  1 1 1
+Output data :
+[0.99445597]
